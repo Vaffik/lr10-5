@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "name": "fishaudio",
+        "author": "fish-speech",
+        "Stars": "16,016"
+    },
+    {
+        "id": "2",
+        "name": "imputnet",
+        "author": "cobalt",
+        "Stars": "18,616"
+    },
+    {
+        "id": "3",
+        "name": "soxoj",
+        "author": "maigret",
+        "Stars": "10,959"
+    },
+    {
+        "id": "4",
+        "name": "ollama",
+        "author": "ollama",
+        "Stars": "101,375"
+    },
+    {
+        "id": "5",
+        "name": "bitcoin",
+        "author": "bitcoin",
+        "Stars": "80,221"
+    },
+    {
+        "id": "6",
+        "name": "dortania",
+        "author": "OpenCore-Legacy-Patcher",
+        "Stars": "13,281"
+    },
+    {
+        "id": "7",
+        "name": "QuivrHQ",
+        "author": "MegaParse",
+        "Stars": "3,539"
+    },
+    {
+        "id": "8",
+        "name": "daytonaio",
+        "author": "daytona",
+        "Stars": "12,764"
+    },
+    {
+        "id": "9",
+        "name": "BerriAI",
+        "author": "litellm",
+        "Stars": "14,827"
+    },
+    {
+        "id": "10",
+        "name": "skills",
+        "author": "copilot-codespaces-vscode",
+        "Stars": "738"
+    },
+    {
+        "id": "11",
+        "name": "cline",
+        "author": "cline",
+        "Stars": "13,648"
+    },
+    {
+        "id": "12",
+        "name": "n8n-io",
+        "author": "self-hosted-ai-starter-kit",
+        "Stars": "3,980"
+    },
+    {
+        "id": "13",
+        "name": "oven-sh",
+        "author": "bun",
+        "Stars": "74,608"
+    },
+    {
+        "id": "14",
+        "name": "pocketbase",
+        "author": "pocketbase",
+        "Stars": "41,553"
+    },
+    {
+        "id": "15",
+        "name": "ChrisTitusTech",
+        "author": "winutil",
+        "Stars": "25,207"
+    },
+    {
+        "id": "16",
+        "name": "deskflow",
+        "author": "deskflow",
+        "Stars": "13,886"
+    },
+    {
+        "id": "17",
+        "name": "evolutionaryscale",
+        "author": "esm",
+        "Stars": "1,430"
+    }
+]
